@@ -17,10 +17,14 @@ Email : notyourlek@gmail.com
 - การแข่งขันจรวจขวดน้ำ วันวิทยาศาสตรืโรงเรียนสระแก้ว
 
 
-### Jekyll Themes
+### กิจกรรม
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lleekks/suthinan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- สตาฟกิจกรรมรับน้องหลักสูตร eis
+- นำเสนอโครงงานIS
+- สตาฟวันวิทยาศาสตร์
+- สตาฟวันกีฬาสี
 
-### Support or Contact
+### กิจกรรมช่วงมหาลัย
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- เข้าร่วมกิจกรรมรับน้อง
+- กิจกรรมปฐมนิเทศคณะ
