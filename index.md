@@ -10,22 +10,12 @@ Email : notyourlek@gmail.com
 ระดับมัธยมปลาย : โรงเรียนสระแก้ว หลักสูตร eis จังหวัดสระแก้ว
 
 
-# Header 1
-## Header 2
-### Header 3
+### ผลงาน
 
-- Bulleted
-- List
+- โครงงานวิทยาศาตร์ ศูนย์วิทยาศาสตร์สระแก้ว
+- การแข่งขันต่อหุ่นนยนต์ วันวิทยาศาสตร์โรงเรียนสระแก้ว
+- การแข่งขันจรวจขวดน้ำ วันวิทยาศาสตรืโรงเรียนสระแก้ว
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
