@@ -4,13 +4,13 @@
 " width="200" height="250">
 
 นางสาวสุธินันท์ ทวีผล (เล็ก)
-Email : notyourlek@gmail.com <br>
-        suthinan.taw@dome.tu.ac.th <br>
+Email : notyourlek@gmail.com<br>
+        suthinan.taw@dome.tu.ac.th<br>
 
 ### การศึกษา
 
 ระดับมัธยมต้น : โรงเรียนสุภวิทย์ หลักสูตร mep จังหวัดสระแก้ว
-ระดับมัธยมปลาย : โรงเรียนสระแก้ว หลักสูตร eis จังหวัดสระแก้ว <br>
+ระดับมัธยมปลาย : โรงเรียนสระแก้ว หลักสูตร eis จังหวัดสระแก้ว<br>
 
 
 ### ผลงาน
