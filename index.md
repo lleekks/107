@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Suthinan taweepol
 
-You can use the [editor on GitHub](https://github.com/lleekks/suthinan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+นางสาวสุธินันท์ ทวีผล (เล็ก)
+Email : notyourlek@gmail.com
+        suthinan.taw@dome.tu.ac.th
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### การศึกษา
 
-### Markdown
+ระดับมัธยมต้น : โรงเรียนสุภวิทย์ หลักสูตร mep จังหวัดสระแก้ว
+ระดับมัธยมปลาย : โรงเรียนสระแก้ว หลักสูตร eis จังหวัดสระแก้ว
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
